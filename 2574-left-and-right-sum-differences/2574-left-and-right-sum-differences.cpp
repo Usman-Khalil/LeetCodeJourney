@@ -10,15 +10,7 @@ public:
         }
         for(int i = 0 ; i < nums.size() ; i++)
         {
-            cout << rightSum[i] << ' ';
-        }
-        for(int i = 0 ; i < nums.size() ; i++)
-        {
             leftSum[i] = abs(leftSum[i] - rightSum[i]);
-        }
-        for(int i = 0 ; i < nums.size() ; i++)
-        {
-            cout << leftSum[i] << ' ';
         }
         return leftSum;
 
