@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0027-remove-element) |
 | [0238-product-of-array-except-self](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0682-baseball-game) |
@@ -17,6 +18,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0027-remove-element) |
 ## Stack
 |  |
