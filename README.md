@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0682-baseball-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
