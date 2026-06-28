@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0020-valid-parentheses) |
 ## Design
 |  |
