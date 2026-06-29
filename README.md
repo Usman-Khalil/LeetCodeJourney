@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0682-baseball-game) |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
