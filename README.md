@@ -21,6 +21,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0006-zigzag-conversion](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0066-plus-one) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
