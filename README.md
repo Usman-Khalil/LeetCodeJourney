@@ -13,6 +13,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0682-baseball-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2574-left-and-right-sum-differences](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/2574-left-and-right-sum-differences) |
@@ -28,6 +29,7 @@
 | [0027-remove-element](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
