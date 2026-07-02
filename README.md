@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0075-sort-colors) |
+| [0228-summary-ranges](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Usman-Khalil/LeetCodeJourney/tree/master/0682-baseball-game) |
